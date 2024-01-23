@@ -1,0 +1,26 @@
+Data/basket_data/*.csv
+Data/product/*.csv
+Data/store/*.csv
+Data/weekly_sales/*.csv
+clean_data/*.csv
+embeddings/*.csv
+embeddings/*.data
+embeddings/preliminary_nlp_model/*
+embeddings/entity_cat_emb/*.csv
+embeddings/store_embeddings/*.csv
+visualization/*.tsv
+visualization/*.data
+embeddings/preliminary_nlp_model.pt
+embeddings/preliminary_nlp_model/config.json
+embeddings/preliminary_nlp_model/pytorch_model.bin
+embeddings/transe_bought_together.pt
+CTC_Capstone2022_data/CTC data/basket_data.7z
+CTC_Capstone2022_data/CTC data/product.7z
+CTC_Capstone2022_data/CTC data/store.7z
+CTC_Capstone2022_data/CTC data/weekly_sales.7z
+compose-dev.yaml
+EDA/
+Embedding/
+embeddings/compose-dev.yaml
+Evaluation-Model/
+Iterations/

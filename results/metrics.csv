@@ -1,0 +1,2 @@
+,Train Accuracy Score,Test Accuracy Score,Train F1 Macro Score,Test F1 Macro Score,Train Precision Macro Score,Test Precision Macro Score,Train Recall Macro Score,Test Recall Macro Score
+nlp_model_batch3_epoch10_sample1500_100k.csv,0.751079460269865,0.3219188506376891,0.5675719933210568,0.15284022067721753,0.6632085871979297,0.1593723471994379,0.5394459933328842,0.15155978960164038
