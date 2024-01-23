@@ -1,6 +1,6 @@
 # Product and Store Embedding Methods for AI/ML Applications
 ![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222156-579x426.gif)
-
+![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222200-648x421.gif)
 This project is a collaboration between the University of Toronto and Canadian Tire Corporation, aimed at developing advanced embedding methods for AI/ML applications to improve data representation and model performance.
 
 ## Project Background
