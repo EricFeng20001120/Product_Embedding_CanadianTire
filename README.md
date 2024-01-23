@@ -1,6 +1,6 @@
 # Product and Store Embedding Methods for AI/ML Applications
-![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222156-579x426.gif)
-![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222200-648x421.gif)
+![1705979178554](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/assets/55144601/6b6704e1-a4d7-4344-b911-b6ec3817d413)
+
 This project is a collaboration between the University of Toronto and Canadian Tire Corporation, aimed at developing advanced embedding methods for AI/ML applications to improve data representation and model performance.
 
 ## Project Background
@@ -30,6 +30,14 @@ The project has successfully demonstrated that embedding techniques can create c
 
 - **Product Classification Model:** Improved Test Accuracy by 7.47%, from 76.26% to 83.73% using NLP embeddings.
 - **Sales Forecasting Model:** Increased Test R Squared Scores by 9.40%, from 50.90% to 60.30% using Entity Embeddings.
+
+## Visualizations
+### this is the visualization for product Embedding
+![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222156-579x426.gif)
+### looking into Detail on Specific Cluster
+![](https://github.com/EricFeng20001120/Product_Embedding_CanadianTire/blob/main/CPT2401222200-648x421.gif)
+
+
 
 ## Future Implications
 
